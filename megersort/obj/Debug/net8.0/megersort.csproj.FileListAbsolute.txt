@@ -1,0 +1,14 @@
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\bin\Debug\net8.0\megersort.exe
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\bin\Debug\net8.0\megersort.deps.json
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\bin\Debug\net8.0\megersort.runtimeconfig.json
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\bin\Debug\net8.0\megersort.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\bin\Debug\net8.0\megersort.pdb
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\obj\Debug\net8.0\megersort.GeneratedMSBuildEditorConfig.editorconfig
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\obj\Debug\net8.0\megersort.AssemblyInfoInputs.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\obj\Debug\net8.0\megersort.AssemblyInfo.cs
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\obj\Debug\net8.0\megersort.csproj.CoreCompileInputs.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\obj\Debug\net8.0\megersort.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\obj\Debug\net8.0\refint\megersort.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\obj\Debug\net8.0\megersort.pdb
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\obj\Debug\net8.0\megersort.genruntimeconfig.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\megersort\obj\Debug\net8.0\ref\megersort.dll

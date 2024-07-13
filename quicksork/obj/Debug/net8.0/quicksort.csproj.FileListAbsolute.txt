@@ -1,0 +1,14 @@
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\bin\Debug\net8.0\quicksort.exe
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\bin\Debug\net8.0\quicksort.deps.json
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\bin\Debug\net8.0\quicksort.runtimeconfig.json
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\bin\Debug\net8.0\quicksort.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\bin\Debug\net8.0\quicksort.pdb
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\obj\Debug\net8.0\quicksort.GeneratedMSBuildEditorConfig.editorconfig
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\obj\Debug\net8.0\quicksort.AssemblyInfoInputs.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\obj\Debug\net8.0\quicksort.AssemblyInfo.cs
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\obj\Debug\net8.0\quicksort.csproj.CoreCompileInputs.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\obj\Debug\net8.0\quicksort.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\obj\Debug\net8.0\refint\quicksort.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\obj\Debug\net8.0\quicksort.pdb
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\obj\Debug\net8.0\quicksort.genruntimeconfig.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\quicksork\obj\Debug\net8.0\ref\quicksort.dll

@@ -1,0 +1,14 @@
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\bin\Debug\net8.0\timkimnhiphan.exe
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\bin\Debug\net8.0\timkimnhiphan.deps.json
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\bin\Debug\net8.0\timkimnhiphan.runtimeconfig.json
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\bin\Debug\net8.0\timkimnhiphan.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\bin\Debug\net8.0\timkimnhiphan.pdb
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\obj\Debug\net8.0\timkimnhiphan.GeneratedMSBuildEditorConfig.editorconfig
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\obj\Debug\net8.0\timkimnhiphan.AssemblyInfoInputs.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\obj\Debug\net8.0\timkimnhiphan.AssemblyInfo.cs
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\obj\Debug\net8.0\timkimnhiphan.csproj.CoreCompileInputs.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\obj\Debug\net8.0\timkimnhiphan.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\obj\Debug\net8.0\refint\timkimnhiphan.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\obj\Debug\net8.0\timkimnhiphan.pdb
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\obj\Debug\net8.0\timkimnhiphan.genruntimeconfig.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\timkimnhiphan\obj\Debug\net8.0\ref\timkimnhiphan.dll

@@ -1,0 +1,14 @@
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\bin\Debug\net8.0\selectionsort.exe
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\bin\Debug\net8.0\selectionsort.deps.json
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\bin\Debug\net8.0\selectionsort.runtimeconfig.json
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\bin\Debug\net8.0\selectionsort.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\bin\Debug\net8.0\selectionsort.pdb
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\obj\Debug\net8.0\selectionsort.GeneratedMSBuildEditorConfig.editorconfig
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\obj\Debug\net8.0\selectionsort.AssemblyInfoInputs.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\obj\Debug\net8.0\selectionsort.AssemblyInfo.cs
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\obj\Debug\net8.0\selectionsort.csproj.CoreCompileInputs.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\obj\Debug\net8.0\selectionsort.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\obj\Debug\net8.0\refint\selectionsort.dll
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\obj\Debug\net8.0\selectionsort.pdb
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\obj\Debug\net8.0\selectionsort.genruntimeconfig.cache
+D:\2033210496_NguyenVanTrinh\ConsoleApp1\selectionsort\obj\Debug\net8.0\ref\selectionsort.dll
