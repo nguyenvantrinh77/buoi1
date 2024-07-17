@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\nguyenvantrinh_2033210496_buoi1\\ConsoleApp1\\tongmang.csproj",
+      "projectUniqueName": "D:\\2033210496_NguyenVanTrinh_Buoi1\\ConsoleApp1\\tongmang.csproj",
       "projectName": "tongmang",
-      "projectPath": "D:\\nguyenvantrinh_2033210496_buoi1\\ConsoleApp1\\tongmang.csproj",
+      "projectPath": "D:\\2033210496_NguyenVanTrinh_Buoi1\\ConsoleApp1\\tongmang.csproj",
       "packagesPath": "C:\\Users\\trinh\\.nuget\\packages\\",
-      "outputPath": "D:\\nguyenvantrinh_2033210496_buoi1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\2033210496_NguyenVanTrinh_Buoi1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trinh\\AppData\\Roaming\\NuGet\\NuGet.Config",

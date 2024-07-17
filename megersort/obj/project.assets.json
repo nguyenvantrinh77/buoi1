@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\nguyenvantrinh_2033210496_buoi1\\megersort\\megersort.csproj",
+      "projectUniqueName": "D:\\2033210496_NguyenVanTrinh_Buoi1\\megersort\\megersort.csproj",
       "projectName": "megersort",
-      "projectPath": "D:\\nguyenvantrinh_2033210496_buoi1\\megersort\\megersort.csproj",
+      "projectPath": "D:\\2033210496_NguyenVanTrinh_Buoi1\\megersort\\megersort.csproj",
       "packagesPath": "C:\\Users\\trinh\\.nuget\\packages\\",
-      "outputPath": "D:\\nguyenvantrinh_2033210496_buoi1\\megersort\\obj\\",
+      "outputPath": "D:\\2033210496_NguyenVanTrinh_Buoi1\\megersort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trinh\\AppData\\Roaming\\NuGet\\NuGet.Config",

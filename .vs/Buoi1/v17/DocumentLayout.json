@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2033210496_NguyenVanTrinh_Buoi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05942035-7E57-47FD-892D-1812A1955C08}|nhanhaisonguyenlon\\nhanhaisonguyenlon.csproj|d:\\2033210496_nguyenvantrinh_buoi1\\nhanhaisonguyenlon\\nhanhaisonguyenlon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05942035-7E57-47FD-892D-1812A1955C08}|nhanhaisonguyenlon\\nhanhaisonguyenlon.csproj|solutionrelative:nhanhaisonguyenlon\\nhanhaisonguyenlon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05942035-7E57-47FD-892D-1812A1955C08}|nhanhaisonguyenlon\\nhanhaisonguyenlon.csproj|d:\\2033210496_nguyenvantrinh_buoi1\\nhanhaisonguyenlon\\nhan2songuyenlon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05942035-7E57-47FD-892D-1812A1955C08}|nhanhaisonguyenlon\\nhanhaisonguyenlon.csproj|solutionrelative:nhanhaisonguyenlon\\nhan2songuyenlon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "nhan2songuyenlon.cs",
+              "DocumentMoniker": "D:\\2033210496_NguyenVanTrinh_Buoi1\\nhanhaisonguyenlon\\nhan2songuyenlon.cs",
+              "RelativeDocumentMoniker": "nhanhaisonguyenlon\\nhan2songuyenlon.cs",
+              "ToolTip": "D:\\2033210496_NguyenVanTrinh_Buoi1\\nhanhaisonguyenlon\\nhan2songuyenlon.cs",
+              "RelativeToolTip": "nhanhaisonguyenlon\\nhan2songuyenlon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T01:57:18.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "nhanhaisonguyenlon",
+              "DocumentMoniker": "D:\\2033210496_NguyenVanTrinh_Buoi1\\nhanhaisonguyenlon\\nhanhaisonguyenlon.csproj",
+              "RelativeDocumentMoniker": "nhanhaisonguyenlon\\nhanhaisonguyenlon.csproj",
+              "ToolTip": "D:\\2033210496_NguyenVanTrinh_Buoi1\\nhanhaisonguyenlon\\nhanhaisonguyenlon.csproj",
+              "RelativeToolTip": "nhanhaisonguyenlon\\nhanhaisonguyenlon.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T01:57:07.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
